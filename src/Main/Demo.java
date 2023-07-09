@@ -6,6 +6,7 @@ public class Demo {
 		System.out.println("Hello! testing for git...");
 //		System.out.println("Now uploaded to GITHUB!");
 		System.out.println("Again Git Push");
+		System.out.println("This is the fourth commit...");
 	}
 
 }
